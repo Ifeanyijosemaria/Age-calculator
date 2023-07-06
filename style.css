@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+body{
+    background: linear-gradient(45deg,steelblue,aliceblue);
+    text-align: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.tittle{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 3rem 0;
+}
+
+input{
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 5px;
+    background-color: black;
+    color: aqua;
+    margin-left: 5px;
+}
+
+button{
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 5px;
+    background-color: black;
+    color: aqua;
+    margin-left: 5px;
+    font-size: medium;
+    margin-bottom: 2rem;
+}
